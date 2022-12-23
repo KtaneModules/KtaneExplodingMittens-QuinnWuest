@@ -38,7 +38,7 @@ public class explodingMittensScript : MonoBehaviour {
         0 1 2 3 4 5 6 7 8 9 10 11
         A B C D E F G H I J K  L
     */
-    
+
     private int[] handCards = { 0, 0, 0 };
     private int tableNumber = 0;
     private readonly int[] tables =
@@ -321,7 +321,7 @@ public class explodingMittensScript : MonoBehaviour {
 
         if (currentIndex > interval)
         {
-            defuseIndex = Random.Range(0, interval);
+            defuseIndex = Random.Range(1, interval);
             currentIndex = 1;
         }
     }

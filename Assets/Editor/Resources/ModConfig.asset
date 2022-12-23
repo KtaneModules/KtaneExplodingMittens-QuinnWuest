@@ -17,7 +17,10 @@ MonoBehaviour:
   description: "Switching one letter always wards off copyright, so we\u2019re fine
     as long as we don\u2019t mention Exploding Kitt- ...Whoops. Well, at least our
     game actually explodes!\r\n\r\nImplemented by EpicToast. Manual written by McNiko67
-    and Grunkle Squeaky.\n\nModule ID: explodingMittens\nManual: https://ktane.timwi.de/HTML/Exploding%20Mittens.html"
+    and Grunkle Squeaky.\r\n\r\nThis is a reupload of EpicToast's module with changes
+    and bug fixes. Unsubscribe from the old version here:\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2548229993\r\n\r\nModule
+    ID: explodingMittens\r\n[url=https://ktane.timwi.de/HTML/Exploding%20Mittens.html]Manual
+    HTML[/url]\r\n[url=https://ktane.timwi.de/PDF/Exploding%20Mittens.pdf]Manual PDF[/url]"
   version: v1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: d7ace711a6d90094484f623476f77e1d, type: 3}
