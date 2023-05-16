@@ -322,7 +322,7 @@ public class explodingMittensScript : MonoBehaviour {
         if (currentIndex > interval)
         {
             defuseIndex = Random.Range(1, interval);
-            currentIndex = 1;
+            currentIndex = 0;
         }
     }
     
