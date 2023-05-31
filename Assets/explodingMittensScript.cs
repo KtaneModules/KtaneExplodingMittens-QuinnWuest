@@ -112,7 +112,7 @@ public class explodingMittensScript : MonoBehaviour {
         for (int i = 0; i < 3; i++)
             handRenderer[i].material = cardMats[handCards[i]];
 
-        interval = Info.GetBatteryCount() % 5 + 9;
+        interval = (Info.GetBatteryCount() % 5 + 9) - 1;
         defuseIndex = Random.Range(0, interval);
         currentIndex = Random.Range(1, interval);
 
